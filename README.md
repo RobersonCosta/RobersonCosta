@@ -9,12 +9,7 @@
 
 I am now in **123Projetei** 👨‍💼
 
-⭐ A person with a lot of determination to complete my tasks. I
-like the human interaction that work provides by understanding
-the needs of coworkers and other sectors. I'm an organized
-person. And, above all, I love challenges and I never allow the
-machine to beat me, I never give up on the accomplishment of a
-task.
+⭐ Always turning great ideas into great solutions
 
 <p align="center">
   <a href="mailto:robersoncosta96@gmail.com?subject=Hello%20Roberson%20Costa" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
