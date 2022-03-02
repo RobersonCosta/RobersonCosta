@@ -9,13 +9,13 @@
 
 I am now in **Cheesecake Labs** 👨‍💼
 
-⭐ Always turning great ideas into great solutions
+Always turning great ideas into great solutions ⭐
 
 <p align="center">
   <a href="mailto:robersoncosta96@gmail.com?subject=Hello%20Roberson%20Costa" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/roberson.costa.585" target="_blank"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/costa_roberson/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/roberson-costa-72833a143/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/roberson-costa-dresch-72833a143/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## GitHub Statistics are Below 👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=RobersonCosta)
